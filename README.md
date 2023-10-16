@@ -1,2 +1,3 @@
 # Review-Predictor
-This is Machine Learning NLP project which uses starbucks dataset for prediction
+This is Machine Learning NLP project which uses starbucks dataset for prediction of ratings
+
